@@ -1,6 +1,4 @@
+def greeting(string):
+  print("string")
 
-
-
-[A[A[A[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[D[D
-[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
-print(""[Dhsbdkfksjdf[C[D")
+greeting("Hello from Serbia. I forked your repo and made a change :)")
